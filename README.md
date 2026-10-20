@@ -6,7 +6,7 @@ This project presents an interactive sales analysis dashboard created using Micr
 
 ## Dashboard Preview
 
-![Adidas Sales Analysis Dashboard](images/dashboard_preview.png)
+![Adidas Sales Analysis Dashboard](dashboard_preview.png)
 ---
 ## Objectives
 
